@@ -128,6 +128,7 @@ LOCAL_DISABLE_GRAPHITE := \
   mkbootimg \
   mkbootfs \
   libhost \
+  art \
   ibext2_profile \
   make_ext4fs \
   hprof-conv \
